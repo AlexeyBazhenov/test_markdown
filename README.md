@@ -11,5 +11,3 @@ Another Head2
 -------------
 
 &nbsp;&nbsp;&nbsp;&nbsp;Слева табуляция
-
-<center>Это что, портал в другое измерение?</center>
