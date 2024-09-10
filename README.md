@@ -10,4 +10,4 @@ Another Head1
 Another Head2
 -------------
 
-&nbsp;&nbsp;&nbsp;&nbsp;<center>Слева табуляция</center>
+<center>&nbsp;&nbsp;&nbsp;&nbsp;Слева табуляция</center>
