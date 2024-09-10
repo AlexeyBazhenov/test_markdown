@@ -10,5 +10,5 @@ Another Head1
 Another Head2
 -------------
 
-&nbsp;&nbsp;&nbsp;&nbsp;Слева табуляция\n
+&nbsp;&nbsp;&nbsp;&nbsp;Слева табуляция<br>
 текст текст текст
