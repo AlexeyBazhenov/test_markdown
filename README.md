@@ -10,4 +10,6 @@ Another Head1
 Another Head2
 -------------
 
-<center>&nbsp;&nbsp;&nbsp;&nbsp;Слева табуляция</center>
+&nbsp;&nbsp;&nbsp;&nbsp;Слева табуляция
+
+<center>Это что, портал в другое измерение?</center>
