@@ -38,7 +38,7 @@ ___Жирный курсив 2___
 
 `console.log('Hi!')`
 
-```
+```python
 for n in [1, 4, 7]:
   print(n)
 ```
