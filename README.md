@@ -44,7 +44,7 @@ for n in [1, 4, 7]:
 ```
 
 text 1
-***
+___
 text 2
 ***
 text 3
