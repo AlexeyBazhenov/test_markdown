@@ -46,6 +46,6 @@ for n in [1, 4, 7]:
 text 1
 ***
 text 2
-**
+***
 text 3
 **
