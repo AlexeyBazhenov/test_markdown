@@ -62,4 +62,5 @@ six
 _____
 
 [*education*](https://stepik.org/ "курс по markdown")
+<compact link>
 
