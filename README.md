@@ -51,9 +51,9 @@ one
 two
 *****
 
-three
+three  
 -----
-four
+four  
 -----
 
 five
