@@ -46,11 +46,18 @@ for n in [1, 4, 7]:
   print(n)
 ```
 
-
+one
+***
+two
+***
 
 three
 ----
 four
 ----
 
+five
+___
+six
+___
 
