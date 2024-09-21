@@ -61,6 +61,6 @@ _____
 six
 _____
 
-[*education*](https://stepik.org/ "курс по markdown")
+[*education*](https://stepik.org/ "курс по markdown")  
 <https://ya.ru/>
 
