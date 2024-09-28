@@ -63,5 +63,5 @@ _____
 
 [*education*](https://stepik.org/ "курс по markdown")  
 **<https://ya.ru/>**  
-![The best boss](https://theoffice.fandom.com/wiki/Michael_Scott?file=Character_-_MichaelScott.PNG)
+![The best boss](https://dzen.ru/a/XbpE6F6yaACtrI3d)
 
