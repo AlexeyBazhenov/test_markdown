@@ -74,6 +74,6 @@ _____
 | x3 y1  | x3 y2  | x3 y3  |  
 
 - [ ] Task 1
-- [y] Task 2
-- [!] Task 3
+- [x] Task 2
+- [ ] Task 3
 
