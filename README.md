@@ -79,6 +79,6 @@ _____
 - [x] Main Task 2
 - [ ] Main Task 3  
 
-:milky_way:  
+:milky_way:
 :rocket:
 
