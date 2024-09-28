@@ -63,5 +63,8 @@ _____
 
 [*education*](https://stepik.org/ "курс по markdown")  
 **<https://ya.ru/>**  
-![The best boss](https://neolurk.org/w/images/d/dc/MichaelScott.png)
+![The best boss](https://neolurk.org/w/images/d/dc/MichaelScott.png)  
+
+\*Экранирую курсив*
+
 
