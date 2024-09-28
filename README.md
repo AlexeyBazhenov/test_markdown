@@ -63,5 +63,5 @@ _____
 
 [*education*](https://stepik.org/ "курс по markdown")  
 **<https://ya.ru/>**  
-![The best boss](https://dzen.ru/a/XbpE6F6yaACtrI3d)
+![The best boss](https://neolurk.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:MichaelScott.png)
 
