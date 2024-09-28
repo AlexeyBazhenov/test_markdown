@@ -73,7 +73,9 @@ _____
 | x2 y1  | x2 y2  | x2 y3  |
 | x3 y1  | x3 y2  | x3 y3  |  
 
-- [ ] Task 1
-- [x] Task 2
-- [ ] Task 3
+- [ ] Main Task 1
+  - [x] Sub Task a
+  - [ ] Sub Task b
+- [x] Main Task 2
+- [ ] Main Task 3
 
