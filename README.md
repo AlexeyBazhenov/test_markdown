@@ -73,7 +73,7 @@ _____
 | x2 y1  | x2 y2  | x2 y3  |
 | x3 y1  | x3 y2  | x3 y3  |  
 
--[ ] Task 1
+- [ ] Task 1
 - [ ] Task 2
 - [ ] Task 3
 
