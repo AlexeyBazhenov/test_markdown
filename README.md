@@ -99,3 +99,5 @@ _____
 
 > [!Caution]
 Осторожно
+
+&copy;Alexey Bazhenov
