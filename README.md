@@ -81,8 +81,7 @@ _____
 
 :milky_way:
 :rocket:
-:skull:  
+:skull:
 
-H~2~O  
-~H2O~
+H~2~O
 
