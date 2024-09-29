@@ -81,7 +81,7 @@ _____
 
 :milky_way:
 :rocket:
-:skull:  
+:skull:
 
-==Это маркер==
+== Mark ==
 
