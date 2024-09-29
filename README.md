@@ -77,12 +77,9 @@ _____
   - [x] Sub Task a
   - [ ] Sub Task b
 - [x] Main Task 2
-- [ ] Main Task 3  
+- [ ] Main Task 3
 
 :milky_way:
 :rocket:
-:skull:  
-
-Python
-: the best language
+:skull:
 
