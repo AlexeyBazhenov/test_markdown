@@ -83,7 +83,7 @@ _____
 :rocket:
 :skull:
 
-<!-- It's a comment >
+<!-- It's a comment -->
 
 > [!Important]
 Это важно!
